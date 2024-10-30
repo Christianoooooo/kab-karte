@@ -1,0 +1,6 @@
+streamlit
+sqlite3
+geopandas
+folium
+streamlit-folium
+pandas
